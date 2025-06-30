@@ -67,7 +67,7 @@ I'm a skilled backend developer with expertise in **Golang**, **Rust**, and **bl
 
 ## 🚀 Featured Projects
 
-### 🔥 [OpenEdu v2](https://github.com/Anoencs/Openedu) - Learning & Hackathon Platform
+### 🔥 [OpenEdu v2](https://openedu.net) - Learning & Hackathon Platform
 **Tech Stack:** `Golang` `Rust` `Axum` `PostgreSQL` `MongoDB` `Microservices`
 - Microservices-based learning platform with payment integration
 - Built scalable backend APIs and real-time features
