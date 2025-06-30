@@ -79,7 +79,7 @@ I'm a skilled backend developer with expertise in **Golang**, **Rust**, and **bl
 - Employee management and file upload/download systems
 - High-performance backend with Rust
 
-### 🔗 [Blockchain Layer 1](https://github.com/Anoencs) - Custom Blockchain Implementation
+### 🔗 [Blockchain Layer 1](https://github.com/Anoencs/core_blockchain) - Custom Blockchain Implementation
 **Tech Stack:** `Golang` `BadgerDB`
 - Built modular blockchain (Ethereum-like) from scratch
 - Implemented transport layer, blocks, transactions, mempool, and VM
